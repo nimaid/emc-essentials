@@ -25,7 +25,7 @@ The following `quality of life` mods are used:
 - [Balm (Forge Edition)](https://www.curseforge.com/minecraft/mc-mods/balm)
   - [Inventory Essentials](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
   - [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
-- [Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+- [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 The following `performance` mods are used:
 - [Canary](https://www.curseforge.com/minecraft/mc-mods/canary)
