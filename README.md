@@ -3,6 +3,7 @@
 
 This pack aims to act as a simple pack for those wanting to use the ProjectE mod (a rewrite of the original Equivalent Exchange 2 mod) in modern Minecraft versions.
 
+## Mods Used
 The following `new feature` mods are used:
 - [ProjectE]([https://www.curseforge.com/minecraft/mc-mods/projecte](https://www.curseforge.com/minecraft/mc-mods/projecte))
   - [Project Expansion](https://www.curseforge.com/minecraft/mc-mods/project-expansion)
@@ -21,6 +22,10 @@ The following `quality of life` mods are used:
 - [More Overlays Updated](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 - [InventorySorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
+- [Balm (Forge Edition)](https://www.curseforge.com/minecraft/mc-mods/balm)
+  - [Inventory Essentials](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
+  - [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
+- [Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 The following `performance` mods are used:
 - [Canary](https://www.curseforge.com/minecraft/mc-mods/canary)
