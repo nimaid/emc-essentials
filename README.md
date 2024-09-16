@@ -1,5 +1,5 @@
 # <img src="icon.png" height="20px" alt="EMC Essentials"/> EMC Essentials
-Modern vanilla Minecraft with ProjectE, plain and simple!
+## Modern vanilla Minecraft with ProjectE, plain and simple!
 
 This pack aims to act as a simple pack for those wanting to use the ProjectE mod (a rewrite of the original Equivalent Exchange 2 mod) in modern Minecraft versions.
 
