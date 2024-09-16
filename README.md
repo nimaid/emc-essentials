@@ -5,7 +5,7 @@ This pack aims to act as a simple pack for those wanting to use the ProjectE mod
 
 ## Mods Used
 ### New Features
-- [ProjectE]([https://www.curseforge.com/minecraft/mc-mods/projecte](https://www.curseforge.com/minecraft/mc-mods/projecte))
+- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)
   - [Project Expansion](https://www.curseforge.com/minecraft/mc-mods/project-expansion)
   - [Arcane Tablet](https://www.curseforge.com/minecraft/mc-mods/arcane-tablet)
 - [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
