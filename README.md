@@ -10,7 +10,7 @@ The following `new feature` mods are used:
   - [Arcane Tablet]([https://www.curseforge.com/minecraft/mc-mods/arcane-tablet](https://www.curseforge.com/minecraft/mc-mods/arcane-tablet))
 - [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
   - [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
-  - [SuperMartijn642's Core Lib]([https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib))
+  - [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
   - [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 
 The following `quality of life` mods are used:
