@@ -8,7 +8,7 @@ This pack includes common add-ons to extend the features of ProjectE, such as hi
 This pack aims to support the latest possible Minecraft version. Currently, this is version `1.20.1`, as ProjectE has not updated past this version yet.
 
 ## What Does EMC Mean? What is ProjectE?
-The ProjectE mod (previously known as Equivalent Exchange) adds a version of alchemy to Minecraft. Almost every item in the game has an Energy-Matter Covalence (EMC) value. Common items like cobblestone have low EMC values like `1`, but rarer items such as diamonds have much higher values like `8192`. Items which are crafted have an EMC value equal to the sum of it's ingredients.
+The ProjectE mod (previously known as Equivalent Exchange) adds a version of alchemy to Minecraft. Almost every item in the game has an Energy-Matter Covalence (EMC) value. Common items like cobblestone have low EMC values like `1`, but rarer items such as diamonds have much higher values like `8192`. Items which are crafted have an EMC value equal to the sum of its ingredients.
 
 This means that, through various means, all matter can be broken down into EMC points and then re-constructed into new matter with the same EMC value. So in theory, you can turn `8192` cobblestone blocks into `1` diamond gem. However, to do these transmutations, you will need special alchemical equipment.
 
@@ -23,7 +23,7 @@ This can transmute blocks and valuable materials in a limited capacity. It can f
 ### Transmutation Table
 This is the first "general purpose" EMC device. It is a slab-like block that can be placed anywhere, even on walls. You can directly put items with an EMC value into the table, which will add it's EMC value to your personal EMC balance (shown at the top left of the screen). When you "burn" an item in the transmutation table for the first time, it will be "learned", and you will be able to pull that item out again if you have enough EMC.
 
-The learned items and EMC balance are tied to your player character, not the psychical table. When you learn an item on one table/tablet, you learn it on them all.
+The learned items and EMC balance are tied to your player character, not the physical table. When you learn an item on one table/tablet, you learn it on them all.
 
 You can transfer EMC to another player using either a Klein Star or by giving them valuable items. To share your learned items, you will need to craft a Knowledge Sharing Book.
 
@@ -60,14 +60,14 @@ There are several ways to make your EMC production go to the moon. In vanilla Mi
 ### Watch of Flowing Time
 This item is simply overpowered. It allows you to control the movements of the moon and the sun, in addition to allowing you to accelerate time in the local area around the watch. This means that plants grow faster, fire burns faster, and yes, EMC generates faster from power flowers as well.
 
-Charge it with V, discharge with Shift+V. The more it is charged, the faster it will accelerate time. Press G to toggle the time acceleration effects, the watch will be gold when activated. Finally, you cna right click with the watch to control the moon and sun.
+Charge it with V, discharge with Shift+V. The more it is charged, the faster it will accelerate time. Press G to toggle the time acceleration effects, the watch will be gold when activated. Finally, you cna right-click with the watch to control the moon and sun.
 
-The effect stacks, and exponentially so. However, they only work if they are in your hotbar or offhand. Therefore, the maximum number of watches you could theoretically stack with a single player is 10. Usuing all 10 slots for fully charged watches makes a MkI power flower generate `16,422` EMC/s instead of its default `102` EMC/s.
+The effect stacks, and exponentially so. However, they only work if they are in your hotbar or offhand. Therefore, the maximum number of watches you could theoretically stack with a single player is 10. Using all 10 slots for fully charged watches makes a MkI power flower generate `16,422` EMC/s instead of its default `102` EMC/s.
 
 ### Dark Matter Pedestal
 These can hold many of the alchemical devices ProjectE adds, often with special effects on the environment or nearby mobs. For EMC generation, all we care about is that it can hold a Watch of Flowing Time that accelerates time around it *without* the player being near. While they don't speed up time as much as they would in the player's inventory, the only limit to how many you can stack is the space you have to place pedestals. For each pedestal with a watch you place around your EMC farm, it will exponentially improve your EMC/s.
 
-Simply place the pedestal, right click with the watch to place it on the pedestal, and then right click again to activate the pedestal.
+Simply place the pedestal, right-click with the watch to place it on the pedestal, and then right-click again to activate the pedestal.
 
 ### Miniature Sun
 This is a very expensive item. However, if you place it on top of energy collectors (or below compact Power Flowers), it will multiply the EMC output by 10x. This of course stacks with time acceleration effects.
