@@ -83,7 +83,6 @@ A Final Power Flower sitting on a Miniature Sun with 8 activated Dark Matter Ped
 - [Project Expansion](https://www.curseforge.com/minecraft/mc-mods/project-expansion)
 - [Arcane Tablet](https://www.curseforge.com/minecraft/mc-mods/arcane-tablet)
 - [Rechiseled](https://www.curseforge.com/minecraft/mc-mods/rechiseled)
-- [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 ### Quality of Life
 - [Custom Window Title](https://www.curseforge.com/minecraft/mc-mods/custom-window-title)
