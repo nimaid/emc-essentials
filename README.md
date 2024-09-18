@@ -45,7 +45,7 @@ These come in different tiers, the more expensive they are, the more EMC they ca
 Generally, you want the relay tier to roughly match the collector tier. Undersized relays may not be able to keep up with the EMC produced, and oversized relays are often a waste of EMC that could be spent on additional or better collectors.
 
 ### EMC Link
-These devices can receive EMC from collectors or relays and directly transfer them into your EMC balance! No more throwing chests filled with diamonds into your tablet, using these fully automates your EMC production!
+These devices can receive EMC from collectors or relays and directly transfer it into your EMC balance! No more throwing chests filled with diamonds into your tablet, using these fully automates your EMC production!
 
 They come in different tiers as well, make sure to match the tier of the collectors/relays used to avoid making an EMC bottleneck.
 
@@ -60,7 +60,7 @@ There are several ways to make your EMC production go to the moon. In vanilla Mi
 ### Watch of Flowing Time
 This item is simply overpowered. It allows you to control the movements of the moon and the sun, in addition to allowing you to accelerate time in the local area around the watch. This means that plants grow faster, fire burns faster, and yes, EMC generates faster from power flowers as well.
 
-Charge it with V, discharge with Shift+V. The more it is charged, the faster it will accelerate time. Press G to toggle the time acceleration effects, the watch will be gold when activated. Finally, you cna right-click with the watch to control the moon and sun.
+Charge it with V, discharge with Shift+V. The more it is charged, the faster it will accelerate time. Press G to toggle the time acceleration effects, the watch will be gold when activated. Finally, you can right-click with the watch to control the moon and sun.
 
 The effect stacks, and exponentially so. However, they only work if they are in your hotbar or offhand. Therefore, the maximum number of watches you could theoretically stack with a single player is 10. Using all 10 slots for fully charged watches makes a MkI power flower generate `16,422` EMC/s instead of its default `102` EMC/s.
 
