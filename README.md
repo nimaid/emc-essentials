@@ -12,6 +12,7 @@ This pack aims to act as a simple pack for those wanting to use the ProjectE mod
   - [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
   - [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
   - [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
+  - [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 ### Quality of Life
 - [Custom Window Title](https://www.curseforge.com/minecraft/mc-mods/custom-window-title)
@@ -25,7 +26,6 @@ This pack aims to act as a simple pack for those wanting to use the ProjectE mod
 - [Balm (Forge Edition)](https://www.curseforge.com/minecraft/mc-mods/balm)
   - [Inventory Essentials](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
   - [TrashSlot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
-- [GraveStone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 ### Performance
 - [Canary](https://www.curseforge.com/minecraft/mc-mods/canary)
